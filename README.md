@@ -4,8 +4,6 @@ This repository contains the source code for the custom Python program described
 
 **M. Kutaini, S. Reich, Digital Cross-Section Mapping: Automated 3D Quantification of Peri-Sulcular Structures Adjacent to Epi- and Subgingival Finish Lines in Digital Dentistry (2026).**
 
-The rest of the files are a more organised, newer, version with a better UI.
-
 ## Demo
 <img width="1092" height="847" alt="Fig7 1" src="https://github.com/user-attachments/assets/c3b7563c-7b63-4bd4-a283-ed8ccfb4b1d5" />
 
