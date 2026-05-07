@@ -7,7 +7,8 @@ This repository contains the source code (source.py) for the custom Python progr
 The rest of the files are a more organised, newer, version with a better UI.
 
 ## Demo
-<img width="1134" height="870" alt="image" src="https://github.com/user-attachments/assets/e696b941-6076-4041-9e5d-285c77832fbf" />
+<img width="1092" height="847" alt="Fig7 1" src="https://github.com/user-attachments/assets/c3b7563c-7b63-4bd4-a283-ed8ccfb4b1d5" />
+
 
 ## Requirements
 You need Three STL files per abutment:
