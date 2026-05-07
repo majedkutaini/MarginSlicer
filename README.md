@@ -2,7 +2,7 @@
 
 This repository contains the source code (source.py) for the custom Python program described in:
 
-**Kutaini M, Reich S. Digital Cross Section Mapping: A Novel 3D Slicing and Registration Workflow for Precise Geometrical Analysis in Digital Dentistry. 2026.**
+**M. Kutaini, S. Reich, Digital Cross-Section Mapping: Automated 3D Quantification of Peri-Sulcular Structures Adjacent to Epi- and Subgingival Finish Lines in Digital Dentistry (2026).**
 
 The rest of the files are a more organised, newer, version with a better UI.
 
