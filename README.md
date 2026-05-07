@@ -1,6 +1,6 @@
 # Digital Cross Section Mapping Workflow
 
-This repository contains the source code (source.py) for the custom Python program described in:
+This repository contains the source code for the custom Python program described in:
 
 **M. Kutaini, S. Reich, Digital Cross-Section Mapping: Automated 3D Quantification of Peri-Sulcular Structures Adjacent to Epi- and Subgingival Finish Lines in Digital Dentistry (2026).**
 
