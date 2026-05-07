@@ -970,7 +970,7 @@ class InteractiveRotationViewer:
         self.fig, self.ax = plt.subplots(figsize=(9.5, 8.5))
         plt.subplots_adjust(left=0.08, right=0.78, bottom=0.30, top=0.92)
         try:
-            self.fig.canvas.manager.set_window_title("DentalSlicer")
+            self.fig.canvas.manager.set_window_title("MarginSlicer")
         except Exception:
             pass
         
